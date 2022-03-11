@@ -39,3 +39,4 @@ Fin du TP 3.
 * Pas de Mock test de fait car difficulté à implémenter la librairie "Mockito".
 * Difficultés à réaliser des tests unitaires qui soient indépendants les uns des autres.
 * Problème de version avec JUnit. Nécessité de passer à la version 4.12 pour être utilisé en parallèle avec spring-test.
+* Une erreur est apparue sur les fichiers header.js et footer.js sur le chemin src/main/java/webapp/resources/bower_components/jquery-sparkline/src.
