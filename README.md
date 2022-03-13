@@ -31,8 +31,8 @@ Fin du TP 3.
 * Delete vehicule/client/reservation.
 * Details vehicule/client (pas de détails pertinents à afficher pour les réservations).
 * Contraintes Front-End et Back-End (Package Validator).
-* Redirection vers erreur en question sur le Front-end et Exception customisé et adapté avec les informations nécéssaires sur le serveur.
-* Tests Unitaires pour les 3 services testant chaque méthode implémenté.
+* Redirection vers erreur en question sur le Front-end et Exception customisée et adaptée avec les informations nécessaires sur le serveur.
+* Tests Unitaires pour les 3 services testant chaque méthode implémentée.
 
 ### Problèmes rencontrés
 
